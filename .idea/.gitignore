@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\天池供应链比赛\天池分析大赛--工业供应链\比赛总结\2021_AliCloud_Supply_Chain_Competition\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
