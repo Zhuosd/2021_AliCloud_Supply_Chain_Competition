@@ -1,4 +1,4 @@
-
+### 2021_AliCloud_Supply_Chain_Competition
 ### 2021阿里云供应链大赛之需求预测及单级库存优化
 
 B榜73名
@@ -34,6 +34,12 @@ B榜73名
 2、保证库存量大于0，利用一周内库存消耗量的最大子序列索引求出库存量的最小值，用于决定是否周一进行补货以及补货量。
 
 
+本项目的作者及单位：
+The author and affiliation of this project:
 
-
+  ```
+ 项目名称（Project Name）：param-opt
+ 项目作者（Author）：Shengda Zhuo 
+ 作者单位（Affiliation）：暨南大学网络空间安全学院（College of Cyber Security, Jinan University）
+  ```
 
